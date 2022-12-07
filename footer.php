@@ -1,5 +1,5 @@
 
-<div class="d-flex justify-content-center align-end p-2 mt-5 bg-secondary text-white">
+<div class="d-flex justify-content-center align-end p-2 mt-5 bg-secondary fixed-bottom text-white">
     <strong>Copyleft@<?=date('Y')?><br>Seja legal, copie!</strong>
 </div>
 

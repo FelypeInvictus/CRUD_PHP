@@ -1,7 +1,7 @@
 {
     "dbhost":"localhost",
     "dbport":"3306",
-    "dbname":"crudphp",
+    "dbname":"loja",
     "dbuser":"root",
-    "dbpass":"r00t@Abc"
+    "dbpass":""
 }
